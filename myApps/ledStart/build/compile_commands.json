@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/shaoenh/cmpt433/work/myApps/ledStart/build/hal",
+  "command": "aarch64-linux-gnu-gcc  -I/home/shaoenh/cmpt433/work/myApps/ledStart/hal/hal/include -I/home/shaoenh/cmpt433/work/myApps/ledStart/hal/include -g -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -fsanitize=address -pthread -std=gnu11 -o CMakeFiles/hal.dir/src/led.c.o -c /home/shaoenh/cmpt433/work/myApps/ledStart/hal/src/led.c",
+  "file": "/home/shaoenh/cmpt433/work/myApps/ledStart/hal/src/led.c"
+},
+{
+  "directory": "/home/shaoenh/cmpt433/work/myApps/ledStart/build/app",
+  "command": "aarch64-linux-gnu-gcc  -I/home/shaoenh/cmpt433/work/myApps/ledStart/app/include -I/home/shaoenh/cmpt433/work/myApps/ledStart/hal/include -g -Wall -Werror -Wpedantic -Wextra -fdiagnostics-color -fsanitize=address -pthread -std=gnu11 -o CMakeFiles/led.dir/src/main.c.o -c /home/shaoenh/cmpt433/work/myApps/ledStart/app/src/main.c",
+  "file": "/home/shaoenh/cmpt433/work/myApps/ledStart/app/src/main.c"
+}
+]

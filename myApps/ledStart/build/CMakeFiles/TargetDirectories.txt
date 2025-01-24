@@ -1,0 +1,8 @@
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/CMakeFiles/edit_cache.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/CMakeFiles/rebuild_cache.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/hal/CMakeFiles/hal.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/hal/CMakeFiles/edit_cache.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/hal/CMakeFiles/rebuild_cache.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/app/CMakeFiles/led.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/app/CMakeFiles/edit_cache.dir
+/home/shaoenh/cmpt433/work/myApps/ledStart/build/app/CMakeFiles/rebuild_cache.dir
