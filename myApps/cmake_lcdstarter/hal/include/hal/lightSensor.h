@@ -45,6 +45,7 @@ void Sampler_cleanup(void);
 
 void Sampler_moveCurrentDataToHistory(void);
 
+void *sample_light_levels(void *arg);
 
 int Sampler_getHistorySize(void);
 
